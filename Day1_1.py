@@ -2,7 +2,7 @@ f = open('Input1.txt', 'r')
 
 inp = f.readlines()
 
-f.close()
+f.close() 
 
 ant = inp[0]
 count = 0
